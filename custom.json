@@ -423,11 +423,11 @@
     }
   ],
   "software_update_url": {
-    "isActive": true,
+    "isActive": false,
     "info": "New Update Available!",
     "url": ""
   },
-  "notice": "Soon we'll publish new relese!",
+  "notice": null,
   "media": [
     {
       "id": 0,
